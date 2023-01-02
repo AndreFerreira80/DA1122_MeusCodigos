@@ -1,0 +1,10 @@
+02/01/2023
+
+Sherlon Almeida
+
+Git e GitHub
+
+git add .
+git commit -m "mensagem de commit"
+git push -u origin nome_da_branch
+git pull
